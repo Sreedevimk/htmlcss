@@ -1,0 +1,36 @@
+body{
+    
+    /*background-image: url(https://wallup.net/wp-content/uploads/2016/01/111509-landscape-nature.jpg);*/
+background-size: cover;}
+#imgage{
+    width: 50%;
+    height: auto;
+}
+#para{
+    align-items: center;
+}
+.grp1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px dashed coral;
+}
+.id{
+    list-style:armenian;
+}
+table{
+    border: 2px solid crimson;
+    border-collapse: collapse;
+    margin: 20% 30% 30%;
+}
+table tr{
+    border: 2px solid cornflowerblue;
+    border-bottom: 2px solid crimson;  
+}
+table td{
+    border: 2px solid chartreuse;
+    border-bottom: 2px solid coral;
+    padding: 8px 11px 12px;
+    
+
+}
+
+
